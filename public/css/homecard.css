@@ -1,0 +1,518 @@
+.order-card {
+    color: #fff;
+}
+
+.bg-c-blue {
+    background: linear-gradient(45deg, #4099ff, #73b4ff);
+}
+
+.bg-c-green {
+    background: linear-gradient(45deg, #2ed8b6, #59e0c5);
+}
+
+.bg-c-yellow {
+    background: linear-gradient(45deg, #FFB64D, #ffcb80);
+}
+
+.bg-c-pink {
+    background: linear-gradient(45deg, #FF5370, #ff869a);
+}
+
+.bg-c-white {
+    background: #ffffff;
+}
+
+.bg-c2 {
+    background: #63ebc2;
+}
+
+.bg-c3 {
+    background: #92b6fd;
+}
+
+.bg-c1 {
+    background: #88a5e9;
+}
+
+.bg-c9 {
+    background: #81d0fd;
+}
+
+.bg-c10 {
+    background: #a5cfe5;
+}
+
+.bg-c7 {
+    background: #fcaad6;
+}
+
+.bg-c5 {
+    background: #fcbe84;
+}
+
+.bg-c6 {
+    background: #ff95a5;
+}
+
+.bg-c4 {
+    background: #ff6d6d;
+}
+
+.bg-c8 {
+    background: #f5d64c;
+}
+
+.bg-ckinder_1 {
+    background: #47ca42;
+}
+
+.bg-ckinder_2 {
+    background: #47ca42;
+}
+
+.bg-csped {
+    background: #af3abe;
+}
+
+/*Jr High*/
+
+.bg-c1img {
+    background-image: url(../images/levels/1.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c2img {
+    background-image: url(../images/levels/2.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c3img {
+    background-image: url(../images/levels/3.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c4img {
+    background-image: url(../images/levels/4.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c5img {
+    background-image: url(../images/levels/5.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c6img {
+    background-image: url(../images/levels/6.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c7img {
+    background-image: url(../images/levels/7.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c8img {
+    background-image: url(../images/levels/8.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c9img {
+    background-image: url(../images/levels/9.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c10img {
+    background-image: url(../images/levels/10.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-ckinder_1img {
+    background-image: url(../images/levels/kinder.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-ckinder_2img {
+    background-image: url(../images/levels/kinder.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-cspedimg {
+    background-image: url(../images/levels/sped.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Sr High */
+.bg-c55sr {
+    background-image: url(../images/SrHigh/55.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c58sr {
+    background-image: url(../images/SrHigh/58.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c60sr {
+    background-image: url(../images/SrHigh/60.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c62sr {
+    background-image: url(../images/SrHigh/62.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c64sr {
+    background-image: url(../images/SrHigh/64.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c65sr {
+    background-image: url(../images/SrHigh/65.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c66sr {
+    background-image: url(../images/SrHigh/66.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c68sr {
+    background-image: url(../images/SrHigh/68.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c72sr {
+    background-image: url(../images/SrHigh/72.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c74sr {
+    background-image: url(../images/SrHigh/74.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c76sr {
+    background-image: url(../images/SrHigh/76.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c78sr {
+    background-image: url(../images/SrHigh/78.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c81sr {
+    background-image: url(../images/SrHigh/81.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c82sr {
+    background-image: url(../images/SrHigh/82.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c84sr {
+    background-image: url(../images/SrHigh/84.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* College */
+
+.bg-c5col {
+    background-image: url(../images/College/5.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c12col {
+    background-image: url(../images/College/12.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c25col {
+    background-image: url(../images/College/25.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c26col {
+    background-image: url(../images/College/26.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c28col {
+    background-image: url(../images/College/28.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c31col {
+    background-image: url(../images/College/31.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c32col {
+    background-image: url(../images/College/32.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c33col {
+    background-image: url(../images/College/33.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c34col {
+    background-image: url(../images/College/34.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c35col {
+    background-image: url(../images/College/35.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c36col {
+    background-image: url(../images/College/36.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c37col {
+    background-image: url(../images/College/37.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c38col {
+    background-image: url(../images/College/38.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c39col {
+    background-image: url(../images/College/39.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c40col {
+    background-image: url(../images/College/40.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c41col {
+    background-image: url(../images/College/41.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c45col {
+    background-image: url(../images/College/45.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c46col {
+    background-image: url(../images/College/46.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c47col {
+    background-image: url(../images/College/47.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c48col {
+    background-image: url(../images/College/48.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c49col {
+    background-image: url(../images/College/49.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c50col {
+    background-image: url(../images/College/50.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c53col {
+    background-image: url(../images/College/53.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c54col {
+    background-image: url(../images/College/54.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c86col {
+    background-image: url(../images/College/86.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/*Supplemental*/
+
+.bg-c57sup {
+    background-image: url(../images/College/57.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/* Masteral */
+
+.bg-c43mas {
+    background-image: url(../images/Masters/43.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c44mas {
+    background-image: url(../images/Masters/44.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c51mas {
+    background-image: url(../images/Masters/51.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-c52mas {
+    background-image: url(../images/Masters/52.png);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+    box-shadow: 0 1px 2.94px 0.06px rgba(4, 26, 55, 0.16);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+
+}
+
+.card .card-block {
+    padding: 25px;
+}
+
+.order-card i {
+    font-size: 26px;
+}
+
+.f-left {
+    float: left;
+}
+
+.f-right {
+    float: right;
+}
